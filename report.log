@@ -1,0 +1,20 @@
+[main] DEBUG com.SampleAdmin  - SampleAdmin debug message
+[main] INFO  com.SampleAdmin  - SampleAdmin infomessage
+[main] WARN  com.SampleAdmin  - SampleAdmin warn message
+[main] ERROR com.SampleAdmin  - SampleAdmin error message
+[main] FATAL com.SampleAdmin  - SampleAdmin fatal message
+[main] DEBUG report.SampleReport  - SampleReport debug message
+[main] INFO  report.SampleReport  - SampleReport info message
+[main] WARN  report.SampleReport  - SampleReport warn message
+[main] ERROR report.SampleReport  - SampleReport error message
+[main] FATAL report.SampleReport  - SampleReport fatal message
+[main] DEBUG com.SampleAdmin  - SampleAdmin debug message
+[main] INFO  com.SampleAdmin  - SampleAdmin infomessage
+[main] WARN  com.SampleAdmin  - SampleAdmin warn message
+[main] ERROR com.SampleAdmin  - SampleAdmin error message
+[main] FATAL com.SampleAdmin  - SampleAdmin fatal message
+[main] DEBUG report.SampleReport  - SampleReport debug message
+[main] INFO  report.SampleReport  - SampleReport info message
+[main] WARN  report.SampleReport  - SampleReport warn message
+[main] ERROR report.SampleReport  - SampleReport error message
+[main] FATAL report.SampleReport  - SampleReport fatal message
